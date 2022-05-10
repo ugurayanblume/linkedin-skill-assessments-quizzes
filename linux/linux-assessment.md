@@ -732,3 +732,10 @@ if [[ $FILE == $GLOB ]] ;then
 - [ ] service
 - [ ] single
 - [ ] process
+
+#### Q89. You want to extract the contents from an rpm package. Which command do you use?You want to extract the contents from an rpm package. Which command do you use?
+
+- [ ] rpm -ivh --forcerpm -ivh --force
+- [ ] rpm --updaterpm --update
+- [x] rpm2cpiorpm2cpio
+- [ ] rpm --reinstall
